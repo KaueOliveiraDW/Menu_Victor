@@ -11,7 +11,7 @@ function checkPassword() {
       
       // Redireciona para outra página após 2 segundos (2000 milissegundos)
       setTimeout(function() {
-        window.location.href = "https://kaueoliveiradw.github.io/Biblioteca/";
+        window.location.href = "https://kaueoliveiradw.github.io/Biblioteca_victor/";
       }, 2000);
     } else {
       // Se a senha estiver incorreta, exiba uma mensagem de erro
